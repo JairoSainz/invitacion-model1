@@ -3,6 +3,7 @@ function Portada(){
     return <div>
         <img src={boda} alt="" className="w-full max-w-md mx-auto object-cover object-center" />
         <h1> Holiwis</h1>
+        <h2> Taitai </h2>
     </div>
 
 
